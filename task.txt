@@ -1,0 +1,8 @@
+Create Aws account.
+In account first of all create s3 bucket and cofigure s3 bucket policy for static website.
+write code for css formate and static format deploy on web server.
+config my all code with github account.
+push all screenshot and code on github reposatory.
+My s3 bucket link  https://myinfortixsbucket.s3.ap-south-1.amazonaws.com/index.html
+My github link github.com/Adiiig/Infotrixs/new/master
+write all proceser on txt file for read permission.
